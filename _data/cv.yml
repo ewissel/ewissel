@@ -2,28 +2,22 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Emily F. Wissel
     - name: Languages
-      value: English, German
+      value: English, Mandarin (currently learning)
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Emory University, Atlanta, GA, United States
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Dissertation title: "The Gut and Vaginal Microbial Communities during Pregnancy in Patients With and Without Urogenital Infections".
+        - Advisors: Drs. Timothy Read and Vicki Hertzberg
+    - title: Bachelors of Science, Psychology (Biology Minor)
+      institution: The University of Texas at Austin, Austin, Texas, United States
+      year: 2014 - 2017
       description:
         - Description 1.
         - Description 2.
