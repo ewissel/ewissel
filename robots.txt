@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ewissel.github.io/al-folio/sitemap.xml
+Sitemap: https://ewissel.github.io/ewissel/sitemap.xml
