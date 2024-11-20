@@ -15,41 +15,40 @@
       description:
         - Dissertation title: "The Gut and Vaginal Microbial Communities during Pregnancy in Patients With and Without Urogenital Infections".
         - Advisors: Drs. Timothy Read and Vicki Hertzberg
+        - NSF Graduate Research Fellow
+        
     - title: Bachelors of Science, Psychology (Biology Minor)
       institution: The University of Texas at Austin, Austin, Texas, United States
-      year: 2014 - 2017
+      year: 2017
       description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Postdoctoral Research Fellow
+      institution: Institute of Biomedical Science, Academia Sinica
+      year: 2024 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Working on multi-omics analyses in human cardiovascular research in the lab of Dr. Patrick CH Hsieh. 
+        
+    - title: Senior Data Analyst
+      institution: Bloomberg School of Public Health, Johns Hopkins University
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Senior data analyst in the lab of Dr. Jotham Suez working on microbiome analyses. 
+        - Remote position
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Senior Data Analyst
+      institution: Costal Microbial Ecology Lab, California State University 
+      year: 2024
+      description: 
+        - Senior data analyst for (Dr. Erika Diaz-Almeyda)[https://erikadiaz.org/] examining soil microbes.
+        - Supervised several undergraduate thesis analyses 
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+    - title: Bioinformatics Intern
+      institution: Early Research, Hill's Pet Nutrition
+      year: 2020
+      description: Developed processing pipeline for microbiome data and SOPs for running and maintaining the pipeline. 
 
     - title: Associate Professor of Theoretical Physics
       institution: University of Zurich, Zurich, Switzerland
